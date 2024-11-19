@@ -1,0 +1,64 @@
+// Menu
+"Airport List" = "Lista de Aeropuertos";
+"Map View" = "Vista de Mapa";
+"Support the Developer" = "Apoyar al Desarrollador";
+
+// Airport Details
+"Wind Speed" = "Velocidad del Viento";
+"Heading" = "Dirección";
+"Gust" = "Ráfaga";
+"KTS" = "Nudos";
+"Wind History & Forecast" = "Historial y Pronóstico";
+"Past 6 Hours" = "Últimas 6 Horas";
+"Next 6 Hours" = "Próximas 6 Horas";
+"ago" = "atrás";
+
+// Search
+"Search airports" = "Buscar aeropuertos";
+
+// Airport Types
+"International" = "Internacional";
+"Domestic" = "Nacional";
+"Private" = "Privado";
+
+// Donation View
+"Support WinDO" = "Apoya a WinDO";
+"Help us keep the wind blowing!" = "¡Ayúdanos a mantener el viento soplando!";
+"Select Amount" = "Seleccionar Monto";
+"Custom" = "Personalizado";
+"Donate with PayPal" = "Donar con PayPal";
+"Processing..." = "Procesando...";
+"Thank You!" = "¡Gracias!";
+"Your support helps us maintain and improve WinDO." = "Tu apoyo nos ayuda a mantener y mejorar WinDO.";
+"Close" = "Cerrar";
+
+// Errors
+"Network connection error" = "Error de conexión";
+"Server error" = "Error del servidor";
+"No weather data available" = "No hay datos meteorológicos disponibles";
+"Error processing weather data" = "Error procesando datos meteorológicos";
+"Invalid airport code" = "Código de aeropuerto inválido";
+
+// Time
+"h" = "h";
+
+// Language Change
+"Change Language" = "Cambiar Idioma";
+"Cancel" = "Cancelar";
+"Restart" = "Reiniciar";
+"The app needs to restart to change the language. Continue?" = "La aplicación necesita reiniciarse para cambiar el idioma. ¿Continuar?";
+
+// Weather
+"Current Weather" = "Clima Actual";
+"Temperature" = "Temperatura";
+
+// Beta
+"Beta Testing" = "Prueba Beta";
+"This app is currently in beta testing.\nYour feedback is greatly appreciated!" = "Esta aplicación está actualmente en prueba beta.\n¡Agradecemos tus comentarios!";
+
+// Add these lines
+"Feedback" = "Comentarios";
+"Send Feedback" = "Enviar Comentarios";
+"Cannot Send Email" = "No se puede enviar el correo";
+"Your device is not configured to send emails. Please check your email settings." = "Su dispositivo no está configurado para enviar correos electrónicos. Por favor, verifique su configuración de correo.";
+"Close" = "Cerrar";
